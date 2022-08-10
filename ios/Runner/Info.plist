@@ -32,6 +32,12 @@
     <string>カメラを使う理由・用途を記述（ここをちゃんと書かないと、Appleのレビューでリジェクトされます）</string>
     <key>NSMicrophoneUsageDescription</key>
     <string>マイクを使う理由・用途を記述（ここをちゃんと書かないと、Appleのレビューでリジェクトされます）</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+    <string>This app requires to access your photo library</string>
+    <key>NSCameraUsageDescription</key>
+    <string>This app requires to add file to your camera</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>This app requires to add file to your photo library your microphone</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
